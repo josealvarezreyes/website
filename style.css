@@ -1,0 +1,19 @@
+body {
+    
+    background-color: black;
+    color: aliceblue;
+
+
+
+}
+
+img {
+
+    max-width: 350px;
+    max-height: 350px;
+}
+
+h1 {
+
+    color: rgb(12, 118, 255);
+}
